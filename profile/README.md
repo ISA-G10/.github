@@ -3,6 +3,7 @@
 🚀Overview
 
 The Hospital Equipment Management Web Application is a specialized tool designed to streamline the management of medical equipment in healthcare settings. Aimed at improving the efficiency and accountability of hospital equipment tracking, this application provides a robust solution for healthcare professionals and administrative staff. The backend of the application is powered by Spring Java, known for its reliability and scalability in enterprise environments, while the frontend is developed using Angular, providing a responsive and intuitive user interface.
+
 🧱Project Components
 
     Backend Development:
